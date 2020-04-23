@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1586702437 source:d:\ramos\codes\a1_p2_id1_id2_id3\main.cpp
+	<iostream>
+	"Fraction.h"
+	"Fraction.cpp"
+	"FractionCalculator.h"
+
+1583605924 d:\ramos\codes\a1_p2_id1_id2_id3\fraction.h
+
+1584195081 d:\ramos\codes\a1_p2_id1_id2_id3\fraction.cpp
+	"Fraction.h"
+	<iostream>
+	<cstring>
+	<string.h>
+	<fstream>
+
+1584194657 d:\ramos\codes\a1_p2_id1_id2_id3\fractioncalculator.h
+	<iostream>
+	"Fraction.h"
+
